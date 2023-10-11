@@ -2,7 +2,7 @@
 <h3 align="center">A passionate Data Scientist</h3>
 
 
-- 🔭 I’m currently working on **on a mission to AI-upgrade the world**
+- 🔭 I’m currently working **on a mission to AI-upgrade the world**
 
 - 🌱 I’m currently learning **Docker and Cloud Platforms (CGP/AWS/Azure)**
 
