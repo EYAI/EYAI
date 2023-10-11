@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Eya Smati</h1>
 <h3 align="center">A passionate Data Scientist</h3>
-<img align="right" alt="Coding" width="400" src="[https://tenor.com/fr/view/tis100-sad-anime-girl-computer-coding-gif-17028925](https://tenor.com/bjCaf.gif)"/>
 
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
 - 🔭 I’m currently working on **on a mission to AI-upgrade the world**
 
