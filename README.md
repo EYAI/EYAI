@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently working **on a mission to AI-upgrade the world**
 
-- 🌱 I’m currently learning **Docker and Cloud Platforms (CGP/AWS/Azure)**
+- 🌱 I’m currently learning **Docker and Cloud Platforms (Azure/CGP/AWS)**
 
 - 👯 I’m looking to collaborate on **on data projects and contribute to open source initiatives**
 
